@@ -1,2 +1,3 @@
 # online-retail-eda
-EDA and revenue analysis on the Online Retail dataset with a data engineering perspective
+Exploratory data analysis and revenue aggregation on the Online Retail dataset,
+focusing on data cleaning, feature engineering, and time-based analysis.
